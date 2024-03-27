@@ -1,0 +1,91 @@
+body {
+
+    background-color: #18181c;
+
+}
+
+.conteudo-passe-da-batalha {
+
+     background-image: url('/public/assets/images/fortnite-big-bang-battle-pass-footer-bg-passes-de-batalha.jpg');
+     padding: 300px;
+     text-align: center;
+
+}
+
+.titulo-passe-da-batalha {
+
+     font-family: 'Rowdies-Regular';
+    font-size: 100px;
+
+}
+
+.veja-abaixo {
+
+    font-family: 'NB-BOLD';
+    font-size: 40px;
+    margin-top: 200px;
+
+}
+
+
+.conteudo-vbucks {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    
+}
+
+
+.cartao-vbucks {
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    border-radius: 20px;
+    background-color: #1f1e1e;
+    color: #a09d9d;
+   
+}
+
+
+.imagem-vbucks {
+
+    width: 1200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+.diversao-nao-para {
+
+    font-family: 'NB-BOLD';
+    color: #c0bcbc;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.textinho-do-cartao {
+
+    font-family: 'Rowdies-Bold';
+    font-size: 30px;
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 5%;
+    
+
+}
+
+
+.cartao-vbucks:hover {
+
+    box-shadow: 10px 10px 20px 20px #a09d9d;
+    
+    transition: 0.5s;
+}
+
+

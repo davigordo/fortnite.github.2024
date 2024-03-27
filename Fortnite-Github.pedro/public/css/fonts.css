@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Fortnite';
+    src: url('/public/assets/fonts/Inter-Regular.woff2');
+    font-weight: 303;
+}
+
+
+
+@font-face {
+    font-family: 'Fortnite';
+    src: url('/public/assets/fonts/Inter-Medium.woff2');
+    font-weight: 304;
+}
+
+@font-face {
+    font-family: 'Fortnite';
+    src: url('/public/assets/fonts/footer-icomoon-2MZPFHWJ.ttf');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Fortnite';
+    src: url('/public/assets/fonts/HeadingNowVariable-IJONJUZC.woff2');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'Fortnite';
+    src: url('/public/assets/fonts/HeadingNowVariableItalic-YE3LZXHX.woff2');
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'NB-BOLD';
+    src: url('/public/assets/fonts/ABCGintoNormal-Bold.woff');
+} 
+
+
+
+@font-face {
+    font-family: 'Rowdies-Bold';
+    src: url('/public/assets/fonts/Rowdies-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Rowdies-Light';
+    src: url('/public/assets/fonts/Rowdies-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Rowdies-Regular';
+    src: url('/public/assets/fonts/Rowdies-Regular.ttf');
+}
